@@ -11,7 +11,7 @@ A WhatsApp bot built with Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Riddlemannel-ux/riddlemannel-bot.git
+   git cloneRiddlemannel-ux/riddlemannel-bot.git
    cd riddlemannel-bot
    ```
 
